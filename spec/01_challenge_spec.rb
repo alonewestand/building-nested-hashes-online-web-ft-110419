@@ -1,4 +1,4 @@
-require_relative '../lib/spec_helper.rb'
+require_relative 'spec_helper'
 require_relative '../lib/first_challenge.rb'
 
 describe "#first_challenge" do 
@@ -7,5 +7,3 @@ describe "#first_challenge" do
     expect(first_challenge.values).to eq([{}, {}])
   end
 end
-
-
