@@ -1,1 +1,4 @@
-epic_tragedy = { [:montague] => {}, [:capulet] => {} }
+epic_tragedy = {
+  :montague => {},
+  :capulet => {}
+}
