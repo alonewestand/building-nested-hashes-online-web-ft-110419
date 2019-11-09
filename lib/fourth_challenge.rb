@@ -1,4 +1,4 @@
-def fourth_challenge.rb
+def fourth_challenge
 epic_tragedy = {
   :montague => {
     :patriarch => {  
